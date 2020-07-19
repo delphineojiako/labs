@@ -6,7 +6,11 @@ Install JAVA
 	
 	## to install jdk 11 use below (choose to install either jdk 8 or 11 - both are not required )
 	
-	sudo apt-get install -y openjdk-11-jdk
+	sudo apt-get install -y openjdk-11-jdk 
+	
+	#cd /usr/lib/jvm/java-11-openjdk-amd64/
+
+ie JAVA_HOME ==/usr/lib/jvm/java-11-openjdk-amd64/
 
 
 Install Jenkins
